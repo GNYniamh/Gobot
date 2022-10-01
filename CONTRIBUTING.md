@@ -24,3 +24,9 @@
 
 There are seven issues to start with.  Please choose what you are comfortable
 with and always ask questions!
+
+# Contribution Dependencies #
+- git is a version management program that allows people to work collaboratively on software; it keeps track of changes.
+- VScode is an IDE that also holds integrations for git.
+- Github is cloud storage for git projects and a UI for collaborative development. You'll need an account and may want to download GitHub Desktop for the UI.
+- Ubuntu may be required as a set up to run and test this program on a Windows device.
